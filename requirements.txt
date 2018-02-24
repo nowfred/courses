@@ -8,3 +8,6 @@ pandas
 scikit-learn
 bcolz
 sympy
+
+# Added to make getting data easier
+kaggle-cli==0.12.13
